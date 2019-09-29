@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1554490242 source:d:\técnico superior en sistemas informáticos\tp1\utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1554479624 d:\técnico superior en sistemas informáticos\tp1\utn.h
+
+1554488558 source:d:\técnico superior en sistemas informáticos\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1554488558 source:c:\users\user\desktop\tp1_melany_zapata_1e\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1554479624 c:\users\user\desktop\tp1_melany_zapata_1e\utn.h
+
+1554490242 source:c:\users\user\desktop\tp1_melany_zapata_1e\utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1562728887 source:c:\users\melany\documents\utn\tps pasados\tp-master\tp1_melany_zapata_1e\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1569718342 c:\users\melany\documents\utn\tps pasados\tp-master\tp1_melany_zapata_1e\utn.h
+
+1562728887 source:c:\users\melany\documents\utn\tps pasados\tp-master\tp1_melany_zapata_1e\utn.c
+	<stdio.h>
+	<stdlib.h>
+
