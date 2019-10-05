@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1561098414 source:c:\users\melany\documents\utn\tp2\input.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1560879574 c:\users\melany\documents\utn\tp2\input.h
+
+1561100779 c:\users\melany\documents\utn\tp2\funciones.h
+
+1561100856 source:c:\users\melany\documents\utn\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1561100827 source:c:\users\melany\documents\utn\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"input.h"
+
